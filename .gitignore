@@ -1,0 +1,18 @@
+# Ignorar archivos de log
+*.log
+
+# Ignorar directorios de dependencias (Node.js)
+node_modules/
+
+# Ignorar archivos de configuración de IDEs (Ej. VSCode)
+.vscode/
+
+# Ignorar archivos generados por el sistema operativo (Ej. MacOS)
+.DS_Store
+
+# Ignorar archivos de compilación
+dist/
+build/
+
+# Ignorar archivos secretos (Ej. claves API, contraseñas)
+*.env
