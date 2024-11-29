@@ -1,4 +1,5 @@
-##Ante de ejecutar
+## Ante de ejecutar
+
 `npm install`
-##Proyecto desplegado en:
+## Proyecto desplegado en:
 [Lading Page Yamaha](https://lading-page-yamaha.vercel.app/)
